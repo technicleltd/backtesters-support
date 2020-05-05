@@ -1,4 +1,7 @@
 # Backtesters - Support group
+<img src="https://technicle.s3-eu-west-1.amazonaws.com/backtesters/logo512.png" width="48">
+
+
 
 Thanks for using our app!
 This is a support page for the app Backtesters available on the App Store and Google Play Store.
